@@ -56,6 +56,10 @@ slidenumbers: true
 
 ---
 
+# How does slicing work?
+
+---
+
 # Slicing characteristics
 
 . Layer Height - thickness of each plastic layer 
@@ -71,10 +75,6 @@ slidenumbers: true
 ![original](images/whitebg.png)
 
 ![inline fill](images/voxels.png)
-
----
-
-# How does slicing work?
 
 ---
 
@@ -151,7 +151,7 @@ slidenumbers: true
 
 # We will print your stuff!
 
-# printqueue.skalnik.com
+# print.robotsconf.com
 
 ---
 
